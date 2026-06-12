@@ -7,10 +7,10 @@ Some settings and etc.
 
 ![https://docs.openenergymonitor.org/_images/ct-sensors-circuit1.png](https://docs.openenergymonitor.org/_images/ct-sensors-circuit1.png)
 
-The voltage divider was powered from 3.3V, not 5V. Middle point should be 1.65V 
-Burden = 100 ohm
+The voltage divider was powered from 3.3V, not 5V. Middle point should be 1.65V.  
+Burden = 100 ohm  
 
-Configuration for analog input - ADC CT Power
+Configuration for analog input - ADC CT Power  
 
 ```
 AdcParam 17, 0, 2022, 0.23
