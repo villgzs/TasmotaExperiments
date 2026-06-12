@@ -7,7 +7,7 @@ Some settings and etc.
 
 ![https://docs.openenergymonitor.org/_images/ct-sensors-circuit1.png](https://docs.openenergymonitor.org/_images/ct-sensors-circuit1.png)
 
-Bourden = 100 ohm
+Burden = 100 ohm
 
 Configuration for analog input - ADC CT Power
 
