@@ -6,11 +6,9 @@ Some settings and etc.
 ### CL-CT08CL5 2000/1 - ESP8266 - Wemos D1 modul
 
 ```
-00:00:00.001 HDW: ESP8266EX
-00:00:00.006 UFS: FlashFS mounted with 1984 kB free
-00:00:00.064 CFG: Loaded from File, Count 40
-00:00:00.070 QPC: Count 1
-00:00:00.084 Project tasmota - Tasmota Version 15.2.0(tasmota-4M)-2.7.8(2026-01-17T17:41:53)
+**Program Version**	15.2.0 (tasmota-4M)
+**Build Date & Time**	2026-01-17T17:41:53
+**Core/SDK Version**	2.7.8/2.2.2-dev(38a443e)
 ```
 
 ![https://runwithpi.wordpress.com/wp-content/uploads/2021/04/screen-shot-2021-04-02-at-4.52.37-pm.png?w=471](https://runwithpi.wordpress.com/wp-content/uploads/2021/04/screen-shot-2021-04-02-at-4.52.37-pm.png?w=471)
