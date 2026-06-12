@@ -5,9 +5,9 @@ Some settings and etc.
 
 ### CL-CT08CL5 2000/1 - ESP8266 - Wemos D1 modul
 
-**Program Version**	15.2.0 (tasmota-4M)
-**Build Date & Time**	2026-01-17T17:41:53
-**Core/SDK Version**	2.7.8/2.2.2-dev(38a443e)
+**Program Version**	15.2.0 (tasmota-4M)  
+**Build Date & Time**	2026-01-17T17:41:53  
+**Core/SDK Version**	2.7.8/2.2.2-dev(38a443e)  
 
 ![https://runwithpi.wordpress.com/wp-content/uploads/2021/04/screen-shot-2021-04-02-at-4.52.37-pm.png?w=471](https://runwithpi.wordpress.com/wp-content/uploads/2021/04/screen-shot-2021-04-02-at-4.52.37-pm.png?w=471)
 
