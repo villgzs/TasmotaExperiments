@@ -1,4 +1,4 @@
-# TasmotaExperiments
+# Tasmota experiments
 Some settings and etc. 
 
 ## Settings for Current transformers
