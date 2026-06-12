@@ -7,8 +7,6 @@ Some settings and etc.
 
 ![https://runwithpi.wordpress.com/wp-content/uploads/2021/04/screen-shot-2021-04-02-at-4.52.37-pm.png?w=471](https://runwithpi.wordpress.com/wp-content/uploads/2021/04/screen-shot-2021-04-02-at-4.52.37-pm.png?w=471)
 
-![https://files.resources.altium.com/sites/default/files/inline-images/migrate/aHViPTY1NjQ2JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVlMjYyZmI0NmY4NTcucG5nJnZlcnNpb249MDAwMCZzaWc9NmQ1YzQ3ZTg1ZDQyOGRkMjdmMzk1MTIyMWQ5MTA3NTg%25253D](https://files.resources.altium.com/sites/default/files/inline-images/migrate/aHViPTY1NjQ2JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVlMjYyZmI0NmY4NTcucG5nJnZlcnNpb249MDAwMCZzaWc9NmQ1YzQ3ZTg1ZDQyOGRkMjdmMzk1MTIyMWQ5MTA3NTg%25253D)
-
 The voltage divider was powered from 3.3V, not 5V. Middle point should be 1.65V.  
 Burden = 100 ohm  
 
